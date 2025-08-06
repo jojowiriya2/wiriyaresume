@@ -7,7 +7,7 @@
       "website": "https://wiriyaresume.com"
     }
   },
-  "professionalSummary": "Accomplished Information Technology graduate from Bangkok University (2023) with over 5 years of comprehensive experience in full-stack web development, ranging from desktop applications to cutting-edge blockchain solutions. Currently serving as a Full Stack Developer at ExelitPro, where I leverage modern technologies including Next.js and Strapi CMS to deliver enterprise-grade applications. My technical expertise spans the entire development lifecycle, from frontend user interface design using React.js and advanced CSS frameworks to backend API development and database management. I have successfully deployed and managed web hosting solutions, ensuring optimal performance and scalability for client projects. My diverse project portfolio includes blockchain applications with Ethereum integration, responsive web applications for various industries, and desktop software solutions. With strong proficiency in JavaScript, TypeScript, and modern development frameworks, I consistently deliver high-quality, maintainable code while collaborating effectively with cross-functional teams. My experience ranges from fintech and blockchain solutions to enterprise management systems, demonstrating adaptability and deep understanding of diverse business requirements. Fluent in both English and Thai, I excel in international development environments and have a proven track record of translating complex technical concepts into user-friendly solutions.",
+  "professionalSummary": "Passionate Full Stack Developer with 2 years of intensive experience and recent Information Technology graduate from Bangkok University (2023), specializing in modern web development and AI automation. Currently at ExelitPro, I create custom web applications for each client's specific needs using Next.js, Strapi CMS, and cutting-edge AI tools to deliver intelligent, personalized solutions. From crafting responsive React.js interfaces to developing robust APIs and implementing AI workflows, I bring innovative technology solutions to life. I specialize in LLM deployment using Docker model runners for testing and optimization, AI-powered image generation with ComfyUI workflows, and building intelligent automation systems with N8N that revolutionize user interactions through automated task processing and smart responses. With strong proficiency in JavaScript, TypeScript, and emerging AI technologies, I consistently deliver next-generation solutions while collaborating effectively with cross-functional teams. Passionate about pioneering the future of web development through artificial intelligence integration.",
   "education": [
     {
       "period": "2019 - 2023",
@@ -26,7 +26,7 @@
   ],
   "experience": [
     {
-      "period": "2025 - Present",
+      "period": "2024 - Present",
       "position": "Full Stack Developer",
       "company": "ExelitPro",
       "responsibilities": [
@@ -86,14 +86,23 @@
       "TypeScript": "Good"
     },
     "backendDevelopment": {
-      "Strapi": "Great",
-      "APIDevelopment": "Good",
-      "FullStackDevelopment": "Great"
+      "backend": {
+        "Strapi": "Great",
+        "APIDevelopment": "Good",
+        "FullStackDevelopment": "Great"
+      },
+      "other": {
+        "WebHosting": "Good",
+        "HeadlessCMS": "Good",
+        "BlockchainSolidity": "Fair"
+      }
     },
-    "otherTechnologies": {
-      "WebHosting": "Good",
-      "HeadlessCMS": "Good",
-      "BlockchainSolidity": "Fair"
+    "aiAndAutomation": {
+      "LLMDeployment": "Great",
+      "DockerModelRunner": "Good",
+      "N8NAutomation": "Great",
+      "ComfyUIImageGen": "Great",
+      "AIIntegration": "Good"
     }
   },
   "languages": {
