@@ -1,0 +1,111 @@
+{
+  "personalInfo": {
+    "name": "WIRIYA THONGYUT",
+    "contact": {
+      "phone": "082-938-9944",
+      "email": "wiriya.workth@gmail.com",
+      "website": "https://wiriyaresume.com"
+    }
+  },
+  "professionalSummary": "Accomplished Information Technology graduate from Bangkok University (2023) with over 5 years of comprehensive experience in full-stack web development, ranging from desktop applications to cutting-edge blockchain solutions. Currently serving as a Full Stack Developer at ExelitPro, where I leverage modern technologies including Next.js and Strapi CMS to deliver enterprise-grade applications. My technical expertise spans the entire development lifecycle, from frontend user interface design using React.js and advanced CSS frameworks to backend API development and database management. I have successfully deployed and managed web hosting solutions, ensuring optimal performance and scalability for client projects. My diverse project portfolio includes blockchain applications with Ethereum integration, responsive web applications for various industries, and desktop software solutions. With strong proficiency in JavaScript, TypeScript, and modern development frameworks, I consistently deliver high-quality, maintainable code while collaborating effectively with cross-functional teams. My experience ranges from fintech and blockchain solutions to enterprise management systems, demonstrating adaptability and deep understanding of diverse business requirements. Fluent in both English and Thai, I excel in international development environments and have a proven track record of translating complex technical concepts into user-friendly solutions.",
+  "education": [
+    {
+      "period": "2019 - 2023",
+      "institution": "Bangkok University",
+      "department": "Information Technology",
+      "gpa": "3.85",
+      "status": "Graduated"
+    },
+    {
+      "period": "2016 - 2018",
+      "institution": "Saim Business Administration Technology College",
+      "department": "English Program",
+      "gpa": "3.88",
+      "status": "Completed"
+    }
+  ],
+  "experience": [
+    {
+      "period": "2025 - Present",
+      "position": "Full Stack Developer",
+      "company": "ExelitPro",
+      "responsibilities": [
+        "Developing end-to-end web applications using Next.js and Strapi CMS",
+        "Building scalable frontend interfaces and robust backend APIs",
+        "Managing web hosting and deployment processes",
+        "Implementing modern development practices and responsive design principles"
+      ]
+    },
+    {
+      "period": "2023",
+      "position": "Frontend Developer Intern",
+      "company": "Geek Start",
+      "responsibilities": [
+        "Developed responsive user interfaces using modern frontend technologies",
+        "Collaborated with cross-functional teams on client projects",
+        "Gained hands-on experience in professional development workflows and code review processes"
+      ]
+    },
+    {
+      "period": "2023",
+      "position": "Web Application Developer",
+      "company": "Salt Company Project",
+      "responsibilities": [
+        "Built comprehensive web application using React.js, TailwindCSS and MaterialTailwind",
+        "Implemented modern UI/UX design patterns and responsive layouts"
+      ]
+    },
+    {
+      "period": "2022",
+      "position": "Blockchain Developer",
+      "company": "Ethereum Transfer Application",
+      "responsibilities": [
+        "Developed decentralized web application for Ethereum transfers",
+        "Utilized React.js, TailwindCSS, and Solidity for frontend and smart contract development"
+      ]
+    },
+    {
+      "period": "2020",
+      "position": "Desktop Application Developer",
+      "company": "Pawnshop Management System",
+      "responsibilities": [
+        "Created Windows application using C# and XAML",
+        "Implemented business logic and user interface for pawnshop operations"
+      ]
+    }
+  ],
+  "technicalSkills": {
+    "frontendDevelopment": {
+      "HTML": "Good",
+      "CSS": "Fair",
+      "TailwindCSS": "Great",
+      "ReactJS": "Great",
+      "NextJS": "Good",
+      "ThreeJS": "Fair",
+      "JavaScript": "Great",
+      "TypeScript": "Good"
+    },
+    "backendDevelopment": {
+      "Strapi": "Great",
+      "APIDevelopment": "Good",
+      "FullStackDevelopment": "Great"
+    },
+    "otherTechnologies": {
+      "WebHosting": "Good",
+      "HeadlessCMS": "Good",
+      "BlockchainSolidity": "Fair"
+    }
+  },
+  "languages": {
+    "English": {
+      "reading": "Great",
+      "writing": "Good",
+      "speaking": "Great"
+    },
+    "Thai": {
+      "reading": "Good",
+      "writing": "Good",
+      "speaking": "Good"
+    }
+  }
+}
