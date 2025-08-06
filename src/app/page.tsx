@@ -126,8 +126,8 @@ const CustomRoomModel = () => {
 
 // Component for Main/Hero content
 const MainContent = ({ t }: { t: ContentType }) => (
-  <div className="h-full flex items-center justify-center">
-    <div className="container mx-auto px-4 sm:px-6">
+  <div className="h-full flex items-start sm:items-center justify-center pt-32 sm:pt-0 overflow-y-auto">
+    <div className="container mx-auto px-4 sm:px-6 py-8 sm:py-0">
       <div className="max-w-6xl mx-auto">
         <div className="grid lg:grid-cols-3 gap-6 sm:gap-8 lg:gap-12 items-center">
           {/* Profile Image */}
@@ -339,7 +339,7 @@ const MainContent = ({ t }: { t: ContentType }) => (
 // Component for Skills content
 const SkillsContent = ({ t, language, getSkillValue }: { t: ContentType, language: string, getSkillValue: (level: string) => number }) => (
   <div className="h-full py-12 pt-28">
-    <div className="container mx-auto px-4 sm:px-6">
+    <div className="container mx-auto px-4 sm:px-6 mb-20">
       <div className="max-w-6xl mx-auto">
         <motion.div
           className="text-center mb-12"
@@ -511,7 +511,7 @@ const SkillsContent = ({ t, language, getSkillValue }: { t: ContentType, languag
 // Component for Experience content  
 const ExperienceContent = ({ t, language }: { t: ContentType, language: string }) => (
   <div className="h-full py-12 pt-28">
-    <div className="container mx-auto px-4 sm:px-6">
+    <div className="container mx-auto px-4 sm:px-6 mb-20">
       <div className="max-w-6xl mx-auto">
         <motion.div
           className="text-center mb-12"
@@ -764,8 +764,8 @@ const LanguagesContent = ({ t, language, getSkillValue }: { t: ContentType, lang
 
 // Combined component for Education and Languages
 const EducationAndLanguagesContent = ({ t, language, getSkillValue }: { t: ContentType, language: string, getSkillValue: (level: string) => number }) => (
-  <div className="h-full py-12 pt-28 flex items-center">
-    <div className="container mx-auto px-4 sm:px-6">
+  <div className="h-full py-12 pt-28 overflow-y-auto">
+    <div className="container mx-auto px-4 sm:px-6 mb-20">
       <div className="max-w-4xl mx-auto">
         {/* Combined Header */}
         <motion.div
@@ -786,7 +786,7 @@ const EducationAndLanguagesContent = ({ t, language, getSkillValue }: { t: Conte
           </h2>
         </motion.div>
 
-        <div className="space-y-16">
+        <div className="space-y-16 mb-20">
           {/* Education Section */}
           <div>
             <motion.h3 
@@ -1000,7 +1000,7 @@ const ContactContent = ({ t, language }: { t: ContentType, language: string }) =
 
   return (
     <div className="h-full py-12 pt-28">
-      <div className="container mx-auto px-4 sm:px-6">
+      <div className="container mx-auto px-4 sm:px-6 mb-20">
         <div className="max-w-4xl mx-auto">
           <motion.div
             className="text-center mb-16"
